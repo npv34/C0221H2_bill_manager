@@ -1,0 +1,15 @@
+.container {
+    width: 900px;
+    margin: 0 auto;
+    height: auto;
+    background-color: bisque;
+}
+
+.bill-list {
+    width: 100%;
+}
+
+.table-bill-list {
+    width: 70%;
+    border-collapse: collapse;
+}
